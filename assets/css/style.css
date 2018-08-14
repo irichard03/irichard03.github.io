@@ -1,0 +1,232 @@
+a{
+    float: right;
+    text-align: center;
+    width:10%;
+    text-decoration: none;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin-top:20px;
+    color:#777777;
+}
+
+body{
+    margin:0px;
+}
+
+
+form{
+    width: 100%;
+    height: 100%;
+    color:#777777;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    display: inline-block;
+}
+
+#greyspace{
+    margin-top:0px;
+    background-color: #666666;
+    height:40px;
+    margin-bottom: 0px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    border-top: 8px solid #4aaaa5; 
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #bbbbbb;
+    text-align: center;
+}
+
+
+h1{
+   float:left;
+    width: 25%;
+    background-color:#4aaaa5;
+    margin:0px;
+    height: 40px;
+    padding:10px;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h2{
+    padding-top: 20px;
+    padding-bottom: 0px;
+    margin-left: 20px;
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    float: clear;
+}
+
+h3{
+   padding: 0px; 
+   margin-bottom: 5px;
+   margin-top: 0px;
+}
+
+#main{
+    width:960px;
+    background-color:white;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 590px;
+}
+
+#message{
+    width: 98%;    
+    height: 25%;
+    margin: 0px 0px 20px 0px;
+    border: solid 1px #cccccc;
+    outline: none;
+    text-align: top;
+    resize: top;
+    overflow: auto;
+}
+
+#name,#email{
+    padding-bottom: 10px;
+    width: 98%;
+    border:solid 1px #cccccc;
+}
+
+p{
+    float:left;
+    width:600px;
+    margin: 20px;
+    margin-bottom: 10px;
+}
+
+#selfie{
+    float:left;
+}
+
+#submain{
+    width: 920px;
+    height: 480px;
+    background-color: white;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right:10px;
+    border-top: solid #cccccc;
+    overflow: hidden;
+    display: inline-block;
+}
+
+#submit{
+    margin: 20px 0px 20px 0px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    border: none;
+    padding: 10px 10px;
+}
+
+#topperMid{
+    background-color:white;
+    height:60px;
+    margin-top: -10px;
+    width: 960px;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#whitespace{
+    background-color:white;
+}
+
+#projects{
+    margin: 0px 0px 0px 0px;
+    background-color: #ffffff;
+    height: 590px;
+    width: 100%;
+    z-index: 1;
+    color: white;
+}
+
+.pictures{
+    width: 290px;
+    height: 150px;
+    margin: 6px 20px 6px 20px;
+}
+
+#cat{
+    position: absolute;
+    margin-left: 25px;
+    float: left;
+    z-index:1;
+}
+
+
+#cattag{
+    position: absolute;
+    float: left;
+    margin-left: 50px;
+    margin-top: -60px;
+    z-index: 4;
+    height: 40px;
+    background-color: teal;
+    width: 201px;
+    padding-top: 6px;
+    text-align:center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#clinttag{
+    position: absolute;
+    float: left;
+    margin-left: 400px;
+    margin-top: -60px;
+    z-index: 4;
+    height: 40px;
+    background-color: teal;
+    width: 201px;
+    padding-top: 6px;
+    text-align:center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#sharktag{
+    position: absolute;
+    float: left;
+    margin-left: 50px;
+    z-index: 4;
+    margin-top: -60px;
+    height: 40px;
+    background-color: teal;
+    width: 201px;
+    padding-top: 6px;
+    text-align:center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+#animetag{
+    margin-left: 400px;
+    z-index: 4;
+    position: absolute;
+    float: left;
+    margin-top: -60px;
+    z-index: 4;
+    height: 40px;
+    background-color: teal;
+    width: 201px;
+    padding-top: 6px;
+    text-align:center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+}
+
+#sargetag{
+    margin-left: 50px;
+    z-index: 4;
+    position: absolute;
+    float: left;
+    margin-top: -60px;
+    z-index: 4;
+    height: 40px;
+    background-color: teal;
+    width: 201px;
+    padding-top: 6px;
+    text-align:center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+}
