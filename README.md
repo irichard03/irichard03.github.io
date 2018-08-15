@@ -1,2 +1,1 @@
-# irichard03.github.io
-My personal portfolio
+# Basic-Porfolio
